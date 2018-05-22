@@ -1,6 +1,6 @@
 # Instructional Material
 
-All introduction-to-data-science repository instructional material is
+All worksheets repository instructional material is
 made available under the **Creative Commons Attribution 2.5 Canada License** ([CC BY 2.5 CA](https://creativecommons.org/licenses/by/2.5/ca/)). 
 
 This is a human-readable summary of (and not a substitute for) the license, which is available in the following languages: 
@@ -28,11 +28,11 @@ No warranties are given. The license may not give you all of the permissions nec
 # Software
 
 Except where otherwise noted, the example programs and other software
-provided in the introduction-to-data-science repository are made available under the
+provided in the worksheets repository are made available under the
 MIT license.
 
 **MIT License**
-Copyright (c) 2018 introduction-to-data-science repository
+Copyright (c) 2018 worksheets repository
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
